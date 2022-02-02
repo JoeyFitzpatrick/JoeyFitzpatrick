@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Joey Fitzpatrick, a software developer from Nashville, TN.
+I'm currently working on completing a bachelor's degree in computer science, and a fairy chess project.
+I'm currently looking for a job upon completion of my degree!
+
 <!--
 **JoeyFitzpatrick/JoeyFitzpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
