@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Joey Fitzpatrick, a software developer from Nashville, TN.
-I'm currently working on completing a bachelor's degree in computer science, and a fairy chess project.
-I'm currently looking for a job upon completion of my degree!
+I'm Joey Fitzpatrick, a software developer from Nashville, TN! 
+- 🔭 I’m currently working on a cool project called Fairy Chess. It's like regular chess, but with new pieces, different variants, and other features. Also, I will complete my bachelor's in computer science in May 2022!
+- 🌱 I’m currently learning Tailwind CSS for front-end styling, and MongoDB and Node.js for back-end.
+- 💬 Ask me about basketball, guitar, and anything tech!
 
 <!--
 **JoeyFitzpatrick/JoeyFitzpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
