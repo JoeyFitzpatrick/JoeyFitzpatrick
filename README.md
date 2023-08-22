@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Joey Fitzpatrick, a software developer from Nashville, TN! 
-- 🔭 I’m currently working on a cool project called Fairy Chess. It's like regular chess, but with new pieces, different variants, and other features. 
+I'm Joey Fitzpatrick, a software developer from Nashville, TN.
 
 <!--
 **JoeyFitzpatrick/JoeyFitzpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
