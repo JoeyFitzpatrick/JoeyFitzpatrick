@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joey Fitzpatrick, a software developer from Nashville, TN.
+I'm Joey Fitzpatrick, a software developer from [redacted].
 
 <!--
 **JoeyFitzpatrick/JoeyFitzpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
