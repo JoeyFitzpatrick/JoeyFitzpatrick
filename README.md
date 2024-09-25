@@ -1,6 +1,13 @@
-### Hi there 👋
+### Greetings and salutations 👋
 
-I'm Joey Fitzpatrick, a software developer from [redacted].
+I'm Joey Fitzpatrick, a software engineer based near Nashville, TN.
+My specialties are:
+- Front end development, using TypeScript/JavaScript, React, Next.js, CSS, and HTML
+- Back end develpment, using TypeScript/JavaScript with Node, Python, Java, and Spring
+- Data engineering, using SQL, Postgres, and Python
+- Developer tools, using Lua
+
+The easiest way to reach me is to shoot me a message on LinkedIn, here's [my profile](https://www.linkedin.com/in/joey-fitzpatrick/)!
 
 <!--
 **JoeyFitzpatrick/JoeyFitzpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
