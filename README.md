@@ -7,6 +7,8 @@ My specialties are:
 - Data engineering, using SQL, Postgres, and Python
 - Developer tools, using Lua
 
+My passion is solving challenging problems, and I am always open to learning something new.
+
 The easiest way to reach me is to shoot me a message on LinkedIn, here's [my profile](https://www.linkedin.com/in/joey-fitzpatrick/)!
 
 <!--
